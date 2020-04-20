@@ -1,2 +1,3 @@
-# iterm-preferences
+# iTerm-preferences
+
 My iTerm preferences
